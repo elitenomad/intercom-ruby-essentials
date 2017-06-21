@@ -1,0 +1,14 @@
+GEM
+  specs:
+    intercom (3.5.15)
+      json (>= 1.8)
+    json (1.8.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  intercom (~> 3.5.10)
+
+BUNDLED WITH
+   1.14.5
